@@ -1,0 +1,4 @@
+python_docx==0.8.10
+cfscrape==2.0.8
+beautifulsoup4==4.8.0
+docx==0.2.4
