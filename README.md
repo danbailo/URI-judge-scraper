@@ -12,11 +12,11 @@
 Para instalar as dependências, execute os comandos abaixo num terminal/prompt de comando:
 * Linux
 
-	* `python3 -m pip install -r requeriments.txt --user`
+	* `python3 -m pip install -r requirements.txt --user`
 
 * Windows
 
-	* `python -m pip install -r requeriments.txt`
+	* `python -m pip install -r requirements.txt`
 
 ---
 
